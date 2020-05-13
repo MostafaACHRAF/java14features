@@ -29,6 +29,6 @@ record CoronaVirusStatus(String country, Long numberOfCases) {\
 var greeting = """\
  Hello world\
  !\
-""";\
+""";
 
 
